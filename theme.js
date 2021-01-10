@@ -8,6 +8,13 @@ export default {
     h1: {
       fontSize: "4rem",
       margin: 0,
+      maxWidth: 900,
+    },
+    li: {
+      maxWidth: 800,
+    },
+    p: {
+      maxWidth: 800,
     },
     blockquote: {
       maxWidth: 800,
